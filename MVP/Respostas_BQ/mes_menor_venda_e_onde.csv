@@ -1,0 +1,11 @@
+mes_ano,product_id,product_category_name,customer_city,customer_state,total_vendido
+01/2017,8b502ca34e28d30605bc667b965b6abf,relogios_presentes,sao paulo,SP,2999.0
+01/2017,1fa728d99803c8849b5c95cfeaf9b60c,pcs,quarai,RS,2199.989990234375
+01/2017,acac295886c915b0bcb309cb4158c0a7,informatica_acessorios,trindade do sul,RS,1999.0
+01/2017,34742604f6cd1e891726b849b6890f81,esporte_lazer,sao paulo,SP,1718.0
+01/2017,07ecfc5bd0d3ca496facedede13afb80,relogios_presentes,santa fe de goias,GO,1299.0
+01/2017,c6edce374ec89184d740f3e674add5f4,relogios_presentes,sao goncalo,RJ,1299.0
+01/2017,81c891c541361f1108fe9e2a645324d9,cool_stuff,brasilia,DF,869.0
+01/2017,34742604f6cd1e891726b849b6890f81,esporte_lazer,belo horizonte,MG,859.0
+01/2017,6c34d241bbd85d693f1fee6a4b8a8e2b,eletroportateis,mogi-guacu,SP,839.0
+01/2017,d12a5178024ccefb3582170a9ab45a0d,cool_stuff,mangueirinha,PR,798.0

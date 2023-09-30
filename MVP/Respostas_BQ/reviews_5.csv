@@ -1,0 +1,16 @@
+product_id,product_category_name,review_score,total_reviews
+89b190a046022486c635022524a974a8,moveis_decoracao,5.0,15
+37eb69aca8718e843d897aa7b82f462d,ferramentas_jardim,5.0,15
+03e1c946c0ddfc58724ff262aef08dff,utilidades_domesticas,5.0,12
+0c9439abe84dc40a64fc164365c4d064,bebidas,5.0,10
+0e839be47c2dc028ca3d90e65732b14c,moveis_decoracao,5.0,7
+928e52a9ad53a294fdcc91bcf59d1751,utilidades_domesticas,5.0,6
+8eb7b31149dc92903e213c9896443440,utilidades_domesticas,5.0,6
+4316b712956314302c5d0aef9ed77c13,construcao_ferramentas_iluminacao,5.0,6
+9ecadb84c81da840dbf3564378b586e9,moveis_decoracao,5.0,12
+67bd616e1ba0d3d3e8545f3113b0140d,beleza_saude,5.0,6
+ed1d57799b8b974641a1acb3fd994016,utilidades_domesticas,5.0,6
+c974196c0f8fa41b6475a72f67b8df99,beleza_saude,5.0,6
+66e9fb73e349cba44b29951e558a6780,utilidades_domesticas,5.0,6
+b80b61cc25558319e7d8e262786ca7af,moveis_decoracao,5.0,6
+56c221c4c1a4a98293895c4563cdc6bf,construcao_ferramentas_seguranca,5.0,6

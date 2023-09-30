@@ -1,0 +1,15 @@
+customer_city,payment_type,total_compras
+sao paulo,credit_card,5443
+sao paulo,boleto,3230
+rio de janeiro,credit_card,2031
+rio de janeiro,boleto,1288
+sao paulo,voucher,994
+belo horizonte,credit_card,787
+brasilia,credit_card,684
+belo horizonte,boleto,535
+campinas,credit_card,480
+rio de janeiro,voucher,473
+curitiba,credit_card,466
+brasilia,boleto,423
+curitiba,boleto,384
+porto alegre,credit_card,376
