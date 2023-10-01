@@ -1,0 +1,11 @@
+order_id,product_category_name,approved_datetime,customer_city,customer_state,quantidade_vendida,total_vendido
+03caa2c082116e1d31e67e9ae3700499,telefonia_fixa,2017-10-02 15:28:00.000000 UTC,rio de janeiro,RJ,8,13440.00
+2cc9089445046817a7539d90805e6e5a,agro_industria_e_comercio,2017-11-28 12:55:00.000000 UTC,divinopolis,MG,6,5934.60
+a53e05ecd2ed1f46a2b8e1f5828be7c6,esporte_lazer,2018-01-27 14:35:00.000000 UTC,para de minas,MG,1,3690.00
+66b9c991ee308f9342f6a7f63bb68251,telefonia_fixa,2018-02-11 14:35:00.000000 UTC,luis eduardo magalhaes,BA,2,3300.00
+f398a143c0fe171d965db2096cf064cf,beleza_saude,2017-12-17 09:30:00.000000 UTC,santa maria,RS,1,3124.00
+31e50461be6957a749166e97af082d0a,construcao_ferramentas_seguranca,2018-02-09 16:50:00.000000 UTC,divinopolis,MG,1,3099.90
+0af28d87520565eb3b57c9b2abe1a2cc,pcs,2017-10-05 20:28:00.000000 UTC,curitiba,PR,1,2999.99
+d9956b0805e324db3f2a546ef216c10b,pcs,2017-10-10 15:06:00.000000 UTC,angra dos reis,RJ,1,2999.99
+d7a2c0c1ff66b314f3bf166fb4157fd4,agro_industria_e_comercio,2017-11-20 22:39:00.000000 UTC,trindade,PE,1,2990.00
+d3fc45461660252856d603ed31eb4e77,beleza_saude,2017-11-21 03:59:00.000000 UTC,ourinhos,SP,1,2899.00
